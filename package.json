@@ -1,0 +1,18 @@
+{
+  "name": "itembot",
+  "version": "1.0.0",
+  "description": "Pegar link de um item no Rolimon e no RBX.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "roblox"
+  ],
+  "author": "FelipeSazz (sazz.xyz)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
